@@ -8,7 +8,8 @@ wget -qO - https://deb.nodesource.com/setup | bash -
 # install
 apt-get -qq update
 apt-get -qq install \
-  nodejs
+    git-core \
+    nodejs
 
 # personalization
 cat >> '/home/vagrant/.bashrc' <<HERE
