@@ -1,2 +1,2 @@
 # vagrant-node
-Simple Vagrant configuration for node develoipment
+A simple Vagrant configuration for node development.
